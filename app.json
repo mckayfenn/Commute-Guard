@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Commute Guard",
+    "description": "Commute Guard provides a peace of mind when walking home in the dark by sending notifications to specific Alexa devices when a button has not been held down for five seconds. Imagine letting your friends' Alexa and your parents' Alexa know you're in danger by just lifting your finger.",
+    "slug": "commute-guard",
+    "privacy": "public",
+    "sdkVersion": "29.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
